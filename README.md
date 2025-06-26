@@ -61,4 +61,4 @@ Telegram频道传送门：精选热门Telegram频道，涵盖娱乐、资讯、�
 社会影响：
 
 该平台通过系统整合娱乐圈与网红圈的爆料信息，清晰呈现事件全貌与时间脉络，帮助用户全面回顾与深度理解热点内容。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/gg20250626/gg8）</span>
